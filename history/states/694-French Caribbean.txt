@@ -19,7 +19,7 @@ state={
 		}
 	}
 		add_core_of = SRP
-		
+		}
  
 	provinces={
 		177 9377 13084 
