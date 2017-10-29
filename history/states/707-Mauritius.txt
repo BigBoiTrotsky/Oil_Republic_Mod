@@ -1,0 +1,22 @@
+state={
+	id=707
+	name="STATE_707"
+	manpower = 404458
+	
+	state_category = large_city
+
+	history={
+		owner = FIS
+		buildings = {
+			infrastructure = 3
+			13018 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = FIS
+	}
+	
+	provinces={
+		13018 
+	}
+}

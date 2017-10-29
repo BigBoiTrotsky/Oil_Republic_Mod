@@ -1,0 +1,22 @@
+state={
+	id=733
+	name="STATE_733"
+	manpower=300000
+	state_category = small_island
+	
+	history={
+		owner = FIS
+		buildings = {
+			infrastructure = 3
+			12251 = {
+				naval_base = 2
+
+			}
+		}
+		add_core_of = FIS
+
+	}
+	provinces={
+		10321 12251 
+	}
+}
