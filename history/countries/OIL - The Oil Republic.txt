@@ -100,7 +100,7 @@ create_country_leader = {
 	desc = "POLITICS_ABDULAZIZ_DESC"
 	picture = "Daddy_Oscar.dds"
 	expire = "1965.1.1"
-	ideology = Leninism
+	ideology = anarchist_communism
 	traits = {spirit_of_genghis}
 }
 create_country_leader = {
