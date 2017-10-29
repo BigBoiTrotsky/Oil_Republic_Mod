@@ -91,7 +91,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSE_AGRIPINO_BARNET_DESC"
 	picture = "Commisar_Sara.dds"
 	expire = "1965.1.1"
-	ideology = Anti-revisionism
+	ideology = Leninism
 	traits = {
 		#
 	}
@@ -123,7 +123,7 @@ create_country_leader = {
 
 		parties = {
 			democratic = { 
-				popularity = 98
+				popularity = 0
 			}
 
 			fascism = {
@@ -131,7 +131,7 @@ create_country_leader = {
 			}
 			
 			communism = {
-				popularity = 2
+				popularity = 100
 				#banned = no #default is no
 			}
 		}
@@ -142,14 +142,3 @@ create_country_leader = {
 		elections_allowed = no
 	}
 
-	create_country_leader = {
-		name = "Federico Laredo Brú"
-		desc = "POLITICS_FEDERICO_LAREDO_BRU_DESC"
-		picture = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
-		expire = "1965.1.1"
-		ideology = socialism
-		traits = {
-			#
-		}
-	}
-}
