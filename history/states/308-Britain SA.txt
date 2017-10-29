@@ -18,8 +18,7 @@ state={
 		}
 	}
 	add_core_of = SRP
-		victory_points = {
-			7630 5 
+		
 	provinces={
 		4450 7123 
 	}

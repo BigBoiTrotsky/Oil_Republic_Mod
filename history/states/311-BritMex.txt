@@ -19,4 +19,4 @@ state=
 }
 		add_core_of = SRP
 		victory_points = {
-			7630 5 
+			2077 1 
