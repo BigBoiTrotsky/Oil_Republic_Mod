@@ -6,7 +6,7 @@ oob = "SAU_1939"
 set_technology = {
 	infantry_weapons = 1
 	gwtank = 1
-	nuclear = 3
+	atomic_research = 3
 }
 
 set_convoys = 5
@@ -47,7 +47,7 @@ set_convoys = 5
 		radio_detection = 1
 		mechanical_computing = 1
 		computing_machine = 1
-		nuclear = 3
+		atomic_research = 3
 
 		#industry
 		basic_machine_tools = 1
@@ -90,13 +90,18 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+	The_Oil_horse
+
+}
+
 create_country_leader = {
 	name = "Oscar Ingvarsson"
 	desc = "POLITICS_ABDULAZIZ_DESC"
 	picture = "Daddy_Oscar.dds"
 	expire = "1965.1.1"
-	ideology = Leninism
-	traits = {Spirit of Genghis}
+	ideology = anarchist_communism
+	traits = {spirit_of_genghis}
 }
 create_country_leader = {
 	name = "Oscar Ingvarsson"
@@ -104,7 +109,9 @@ create_country_leader = {
 	picture = "Daddy_Oscar.dds"
 	expire = "1965.1.1"
 	ideology = Liberalism
-	traits = {Spirit of Genghis}
+	traits = {
+	spirit_of_genghis
+	}
 }
 create_country_leader = {
 	name = "Oscar Ingvarsson"
@@ -112,7 +119,7 @@ create_country_leader = {
 	picture = "Daddy_Oscar.dds"
 	expire = "1965.1.1"
 	ideology = Rexism
-	traits = {Spirit of Genghis}
+	traits = {spirit_of_genghis}
 }
 
 1939.1.1 = {
