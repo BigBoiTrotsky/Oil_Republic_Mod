@@ -14,8 +14,6 @@ state={
 			}
 		}
 	}
-		add_core_of = SRP
-		}
 
 	provinces={ 12304 12477 }
 }

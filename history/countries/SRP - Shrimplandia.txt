@@ -74,6 +74,11 @@ set_politics = {
 			#banned = no #default is no
 		}
 	}
+
+		neutrality = { 
+			popularity = 0
+		}
+	}
 	
 	ruling_party = communism
 	last_election = "1936.1.10"
@@ -82,9 +87,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Commissar Sara"
+	name = "Commissar_Sara"
 	desc = "POLITICS_JOSE_AGRIPINO_BARNET_DESC"
-	picture = "Commisar Sara.dds"
+	picture = "Commisar_Sara.dds"
 	expire = "1965.1.1"
 	ideology = Anti-revisionism
 	traits = {
@@ -95,7 +100,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Richsmarschall Sara"
 	desc = "POLITICS_JOSE_AGRIPINO_BARNET_DESC"
-	picture = "Commisar Sara.dds"
+	picture = "Commisar_Sara.dds"
 	expire = "1965.1.1"
 	ideology = Falangism
 	traits = {
@@ -106,7 +111,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "President Sara"
 	desc = "POLITICS_JOSE_AGRIPINO_BARNET_DESC"
-	picture = "Commisar Sara.dds"
+	picture = "Commisar_Sara.dds"
 	expire = "1965.1.1"
 	ideology = Socialism
 	traits = {
