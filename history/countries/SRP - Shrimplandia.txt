@@ -93,8 +93,6 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = Leninism
 	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -104,10 +102,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = Falangism
 	traits = {
-		#
-	}
 }
-
 create_country_leader = {
 	name = "President Sara"
 	desc = "POLITICS_JOSE_AGRIPINO_BARNET_DESC"
@@ -115,8 +110,6 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = Socialism
 	traits = {
-		#
-	}
 }
 1939.1.1 = {
 	set_politics = {
