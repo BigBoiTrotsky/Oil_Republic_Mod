@@ -2,7 +2,7 @@ state={
 	id=713
 	name="STATE_713"
 	manpower=100000
-	state_category = large_city
+	state_category = megalopolis
 
 	history={
 		owner = FIS
